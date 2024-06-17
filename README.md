@@ -1,5 +1,7 @@
 # MLPR-Final-Project
-This repo contains all the code for Pedestrian and Obstacle Detection using OpenVino models and different Variants of YOLO (You Only Look Once). We also created a Gradio Interface. 
+This repo contains all the code for Pedestrian and Obstacle Detection using OpenVino models and different Variants of YOLO (You Only Look Once). 
+
+
 -----------
 Notebooks included in the repository:
 1. Yolov4-Tiny
