@@ -6,9 +6,15 @@ This repo contains all the code for Pedestrian and Obstacle Detection using Open
 Notebooks included in the repository:
 1. Yolov4-Tiny
 2. Yolov5
-3. Yolov9
-4. Yolov10
-5. OpenVino ADAS-001
+3. Yolov8
+4. Yolov9
+5. Yolov10
+6. Yolov11
+
+
+
+
+
 -----------
 ## Comparison Between YOLO models 
 ![Summarization process](assets/comparison.png)
