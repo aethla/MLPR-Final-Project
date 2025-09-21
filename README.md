@@ -12,11 +12,17 @@ Notebooks included in the repository:
 6. Yolov11
 
 
-
-
-
 -----------
 ## Comparison Between YOLO models 
+
+### Pre-Trained Weights
+![Summarization process](assets/1.png)
+
+### Fine-Tuned Weights
+![Summarization process](assets/2.png)
+
+-----------
+## Comparison Between YOLO models (prev)
 ![Summarization process](assets/comparison.png)
 
 
